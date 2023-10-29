@@ -1,0 +1,8 @@
+﻿  Lab4 (in team) LL2.cpp
+C:\Users\Diana\Desktop\Lab4 (in team) LL2\Lab4 (in team) LL2\Lab4 (in team) LL2.cpp(168,21): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Diana\Desktop\Lab4 (in team) LL2\Lab4 (in team) LL2\Lab4 (in team) LL2.cpp(169,21): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Diana\Desktop\Lab4 (in team) LL2\Lab4 (in team) LL2\Lab4 (in team) LL2.cpp(170,26): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Diana\Desktop\Lab4 (in team) LL2\Lab4 (in team) LL2\Lab4 (in team) LL2.cpp(193,25): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Diana\Desktop\Lab4 (in team) LL2\Lab4 (in team) LL2\Lab4 (in team) LL2.cpp(243,21): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Diana\Desktop\Lab4 (in team) LL2\Lab4 (in team) LL2\Lab4 (in team) LL2.cpp(244,21): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  Lab4 (in team) LL2.vcxproj -> C:\Users\Diana\Desktop\Lab4 (in team) LL2\x64\Debug\Lab4 (in team) LL2.exe
